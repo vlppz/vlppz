@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm a fullstack developer from Moscow 👋</h1>
-<h1 align="center"><a href="https://vlppz.ru/">My portfolio 👨‍💻</a></h2>
+<h1 align="center"><a href="https://vlppz.ru/">My website 👨‍💻</a></h2>
 
 # Some fun stuff:
 ## I use:
