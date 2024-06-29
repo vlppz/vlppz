@@ -10,4 +10,4 @@
 | My most comfortable stack for web | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 ## My Github stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirPapazov88&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirPapazov88&layout=donut&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vlppz&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlppz&layout=donut&theme=tokyonight)
